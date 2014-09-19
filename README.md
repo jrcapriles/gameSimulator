@@ -1,0 +1,4 @@
+gameSimulator
+=============
+
+Simple game interface
